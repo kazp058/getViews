@@ -1,6 +1,6 @@
 # getViews
 
-##Requisitos
+## Requisitos
 1. Windows (no se ha probado en otros sistemas operativos).
 2. Tener google chrome descargado y actualizado.
 3. Descargar la ultima version de chromedrive compatible con el sistema operativo.
